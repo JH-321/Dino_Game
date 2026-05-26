@@ -1,3 +1,4 @@
 bin/
 obj/
 dino-scores.csv
+.DS_Store
