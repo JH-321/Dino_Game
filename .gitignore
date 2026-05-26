@@ -1,4 +1,9 @@
 bin/
 obj/
 dino-scores.csv
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+*.log
+>>>>>>> 34b6d27906626793f62f9df450c896c57c8dbe01
